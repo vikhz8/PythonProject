@@ -20,3 +20,4 @@ ax.set(xticklabels=[],
        zticklabels=[])
 
 plt.show()
+print(12343)
